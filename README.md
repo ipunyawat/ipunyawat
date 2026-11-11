@@ -1,4 +1,4 @@
-# Hi there, I'm <span type="placeholder" placeholder-type="person"></span> 👋
+# Hi there, I'm Punyawat 👋
 
 ### 👨‍💻 About Me
 - 🎓 Computer Science Student at **<span type="placeholder" placeholder-type="place"></span>**
