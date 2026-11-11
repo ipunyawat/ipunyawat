@@ -24,7 +24,7 @@
 #### Tools & Platforms
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Window](https://img.shields.io/badge/Window-FFFFFF?style=for-the-badge&logo=linux&logoColor=black)
+![Window](https://img.shields.io/badge/Window-FFFFFF?style=for-the-badge&logo=window&logoColor=black)
 ![Wireshark](https://img.shields.io/badge/Wireshark-167EC6?style=for-the-badge&logo=wireshark&logoColor=white)
 
 ---
