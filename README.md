@@ -2,7 +2,7 @@
 
 ### 👨‍💻 About Me
 - 🎓 Computer Science Student at University of Phayao
-- 💡 Interested in **Software Engineering, Computer Vision**
+- 💡 Interested in **Software Engineering, Computer Vision, And Reverse Engineering**
 - 🎯 Current Goal: **Learning Full-Stack Development**
 - 💬 Ask me about **Python, And Lua**
 
